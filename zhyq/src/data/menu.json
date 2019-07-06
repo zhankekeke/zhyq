@@ -1,0 +1,1046 @@
+{
+  "users": [
+    {
+      "user": [
+        {
+          "Name": "系统管理",
+          "Code": "user",
+          "Pcode": "user",
+          "Value": "XT_YQ",
+          "SubMenus": [
+            {
+              "Name": "首页",
+              "Code": "index",
+              "Desc": "我的首页",
+              "Value": "XT_QY"
+            },
+            {
+              "Name": "企业管理",
+              "Code": "company",
+              "Desc": "管理数据浏览用户",
+              "Value": "XT_YQ_QiYeGuanLi"
+            },
+            {
+              "Name": "用户管理",
+              "Code": "userManage",
+              "Desc": "管理数据浏览用户",
+              "Value": "XT_YQ_YongHuGuanLi"
+            },
+            {
+              "Name": "角色管理",
+              "Code": "roleManage",
+              "Desc": "管理数据浏览用户",
+              "Value": "XT_YQ_JueSeGuanLi"
+            },
+            {
+              "Name": "轮播图管理",
+              "Code": "lbtManage",
+              "Desc": "管理数据浏览用户",
+              "Value": "XT_YQ_LunBoTuGuanLi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ssManage": [
+        {
+          "Name": "设施管理",
+          "Code": "ssManage",
+          "Pcode": "user",
+          "Value": "SS_YQ",
+          "SubMenus": [
+            {
+              "Name": "楼宇管理",
+              "Code": "buildManage",
+              "Desc": "管理数据浏览用户",
+              "Value": "SS_YQ_LouYuGuanLi"
+            },
+            {
+              "Name": "会议室管理",
+              "Code": "assembManage",
+              "Desc": "管理数据浏览用户",
+              "Value": "SS_YQ_HuiYiShiGuanLi"
+            },
+            {
+              "Name": "餐厅管理",
+              "Code": "diningManage",
+              "Desc": "管理数据浏览用户",
+              "Value": "SS_YQ_CanTingGuanLi"
+            },
+            {
+              "Name": "停车场管理",
+              "Code": "parkManage",
+              "Desc": "管理数据浏览用户",
+              "Value": "SS_YQ_TingCheChangGuanLi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "informManage": [
+        {
+          "Name": "通知发布",
+          "Code": "informManage",
+          "Pcode": "user",
+          "Value": "TZ",
+          "SubMenus": [
+            {
+              "Name": "通知发布",
+              "Code": "inform",
+              "Desc": "管理数据浏览用户",
+              "Value": "TZ_TongZhiFaBu"
+            },
+            {
+              "Name": "活动发布",
+              "Code": "hdManage",
+              "Desc": "管理数据浏览用户",
+              "Value": "TZ_HuoDongFaBu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hysManage": [
+        {
+          "Name": "会议室管理",
+          "Code": "hysManage",
+          "Pcode": "user",
+          "Value": "HYS",
+          "SubMenus": [
+            {
+              "Name": "预约记录",
+              "Code": "yyrecord",
+              "Desc": "预约时间",
+              "Value": "HYS_YuYueJiLu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tcc": [
+        {
+          "Name": "停车管理",
+          "Code": "tcc",
+          "Pcode": "user",
+          "Value": "TC",
+          "SubMenus": [
+            {
+              "Name": "车辆管理",
+              "Code": "clgl",
+              "Desc": "管理车辆",
+              "Value": "TC_CheLiangGuanLi"
+            },
+            {
+              "Name": "缴费记录",
+              "Code": "jfjl",
+              "Desc": "缴费记录",
+              "Value": "TC_JiaoFeiJiLu"
+            },
+            {
+              "Name": "预约记录",
+              "Code": "yyjl",
+              "Desc": "预约记录",
+              "Value": "TC_YuYueJiLu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fkManage": [
+        {
+          "Name": "访客管理",
+          "Code": "fkManage",
+          "Pcode": "user",
+          "Value": "FK",
+          "SubMenus": [
+            {
+              "Name": "访客记录",
+              "Code": "fkjl",
+              "Desc": "管理数据浏览用户",
+              "Value": "FK_FangKeJiLu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "zcManage": [
+        {
+          "Name": "虚拟资产管理",
+          "Code": "zcManage",
+          "Pcode": "user",
+          "Value": "ZC",
+          "SubMenus": [
+            {
+              "Name": "账户列表",
+              "Code": "zhlb",
+              "Desc": "管理账户数据",
+              "Value": "ZC_YongHuZhangHuGuanLi"
+            },
+            {
+              "Name": "积分管理",
+              "Code": "jfmanage",
+              "Desc": "管理数据浏览用户",
+              "Value": "ZC_JiFenGuanLi"
+            },
+            {
+              "Name": "积分规则配置",
+              "Code": "jfgzpz",
+              "Desc": "积分规范",
+              "Value": "ZC_JiFenGuiZePeiZhi"
+            },
+            {
+              "Name": "代金券管理",
+              "Code": "djqmanage",
+              "Desc": "管理代金券",
+              "Value": "ZC_DaiJinQuanGuanLi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "jfscManage": [
+        {
+          "Name": "积分商城管理",
+          "Code": "jfscManage",
+          "Pcode": "user",
+          "Value": "SC",
+          "SubMenus": [
+            {
+              "Name": "商品管理",
+              "Code": "spManage",
+              "Desc": "管理数据浏览用户",
+              "Value": "SC_ShangPinGuanLi"
+            },
+            {
+              "Name": "订单管理",
+              "Code": "orderManage",
+              "Desc": "管理数据浏览用户",
+              "Value": "SC_DingDanGuanLi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gjfw": [
+        {
+          "Name": "管家服务",
+          "Code": "gjfw",
+          "Pcode": "user",
+          "Value": "GJ",
+          "SubMenus": [
+            {
+              "Name": "管家管理",
+              "Code": "gjmanage",
+              "Desc": "管理数据浏览用户",
+              "Value": "GJ_GuanJiaFuWu"
+            },
+            {
+              "Name": "服务记录",
+              "Code": "fwjl",
+              "Desc": "管理数据浏览用户",
+              "Value": "GJ_FuWuJiLu"
+            },
+            {
+              "Name": "上下线日志",
+              "Code": "sxxrz",
+              "Desc": "管理数据浏览用户",
+              "Value": "GJ_ShangXiaXian"
+            },
+            {
+              "Name": "转单日志",
+              "Code": "zdrz",
+              "Desc": "管理数据浏览用户",
+              "Value": "GJ_ZhuanDan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bzzx": [
+        {
+          "Name": "帮助中心",
+          "Code": "bzzx",
+          "Pcode": "user",
+          "Value": "BZ",
+          "SubMenus": [
+            {
+              "Name": "常见问题",
+              "Code": "question",
+              "Desc": "管理数据浏览用户",
+              "Value": "BZ_ChangJianWenTi"
+            },
+            {
+              "Name": "企业服务",
+              "Code": "qyfw",
+              "Desc": "管理数据浏览用户",
+              "Value": "BZ_QiYeFuWu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fwtj": [
+        {
+          "Name": "平台统计",
+          "Code": "fwtj",
+          "Pcode": "user",
+          "Value": "TJ",
+          "SubMenus": [
+            {
+              "Name": "访问统计",
+              "Code": "pttj",
+              "Desc": "管理数据浏览用户",
+              "Value": "TJ_FangWenTongJi"
+            },
+            {
+              "Name": "通知发布",
+              "Code": "tzfbtj",
+              "Desc": "管理数据浏览用户",
+              "Value": "TJ_TongZhiFaBu"
+            },
+            {
+              "Name": "会议室使用",
+              "Code": "sytj",
+              "Desc": "统计数据",
+              "Value": "TJ_HuiYiShi"
+            },
+            {
+              "Name": "停车场",
+              "Code": "tcctj",
+              "Desc": "统计停车记录",
+              "Value": "TJ_TingCheChang"
+            },
+            {
+              "Name": "积分发放",
+              "Code": "jftj",
+              "Desc": "统计积分",
+              "Value": "TJ_JiFenFaFang"
+            },
+            {
+              "Name": "代金券",
+              "Code": "djqtj",
+              "Desc": "统计代金券",
+              "Value": "TJ_DaiJinQuan"
+            },
+            {
+              "Name": "商城统计",
+              "Code": "sctj",
+              "Desc": "管理数据浏览用户",
+              "Value": "TJ_ShangCheng"
+            },
+            {
+              "Name": "管家服务",
+              "Code": "fwtj",
+              "Desc": "管理数据浏览用户",
+              "Value": "TJ_GuanJia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "jump": [
+        {
+          "Name": "跳转",
+          "Code": "jump",
+          "Pcode": "user",
+          "Ico": "person",
+          "SubMenus": [
+            {
+              "Name": "新增会议室",
+              "Code": "xzhys",
+              "Desc": "会议室增加"
+            },
+            {
+              "Name": "会议室编辑",
+              "Code": "hysbj",
+              "Desc": "会议室增加"
+            },
+            {
+              "Name": "会议室编辑",
+              "Code": "yqhysbj",
+              "Desc": "会议室增加"
+            },
+            {
+              "Name": "会议室配置",
+              "Code": "hyspz",
+              "Desc": "会议室增加"
+            },
+            {
+              "Name": "楼宇平面图",
+              "Code": "lypmt",
+              "Desc": "楼宇的平面图"
+            },
+            {
+              "Name": "会议室详情",
+              "Code": "hysxq",
+              "Desc": "会议室增加"
+            },
+            {
+              "Name": "新建通知",
+              "Code": "xjtz",
+              "Desc": "会议室增加"
+            },
+            {
+              "Name": "通知转发",
+              "Code": "tzzf",
+              "Desc": "会议室增加"
+            },
+            {
+              "Name": "账户列表详情",
+              "Code": "zhlbxq",
+              "Desc": "管理账户数据"
+            },
+            {
+              "Name": "新建活动",
+              "Code": "xjhd",
+              "Desc": "会议室增加"
+            },
+            {
+              "Name": "活动编辑",
+              "Code": "hdbj",
+              "Desc": "会议室增加"
+            },
+            {
+              "Name": "活动详情",
+              "Code": "hdxq",
+              "Desc": "会议室增加"
+            },
+            {
+              "Name": "报名信息",
+              "Code": "bmxx",
+              "Desc": "信息介绍"
+            },
+            {
+              "Name": "服务记录",
+              "Code": "fwjl",
+              "Desc": "管理管家"
+            },
+            {
+              "Name": "管家详情",
+              "Code": "gjxq",
+              "Desc": "管理管家"
+            },
+            {
+              "Name": "服务记录详情",
+              "Code": "fwjlxq",
+              "Desc": "管理管家"
+            },
+            {
+              "Name": "餐厅详情",
+              "Code": "ctxq",
+              "Desc": "餐厅介绍"
+            },
+            {
+              "Name": "新增企业",
+              "Code": "xzqy",
+              "Desc": "增加企业"
+            },
+            {
+              "Name": "积分商品管理",
+              "Code": "jfspgl",
+              "Desc": "增加企业"
+            },
+            {
+              "Name": "通知发布编辑",
+              "Code": "tzfbbj",
+              "Desc": "编辑页面"
+            },
+            {
+              "Name": "企业服务详情",
+              "Code": "qyfwxq",
+              "Desc": "编辑页面"
+            },
+            {
+              "Name": "积分商品管理详情",
+              "Code": "jfspglxq",
+              "Desc": "增加企业"
+            },
+            {
+              "Name": "会议室管理详情",
+              "Code": "hysglxq",
+              "Desc": "会议室管理介绍"
+            },
+            {
+              "Name": "轮播图设置",
+              "Code": "lbtsz",
+              "Desc": "会议室管理介绍"
+            },
+            {
+              "Name": "包间详情",
+              "Code": "bjxq",
+              "Desc": "会议室管理介绍"
+            },
+            {
+              "Name": "异常记录",
+              "Code": "ycjl",
+              "Desc": "会议室管理介绍"
+            },
+            {
+              "Name": "会议室管理统计",
+              "Code": "hysgltj",
+              "Desc": "会议室统计"
+            },
+            {
+              "Name": "帮助中心分类管理",
+              "Code": "bzzxflgl",
+              "Desc": "会议室介绍"
+            },
+            {
+              "Name": "企业服务分类管理",
+              "Code": "qyfwflgl",
+              "Desc": "会议室介绍"
+            },
+            {
+              "Name": "订单管理",
+              "Code": "ddgl",
+              "Desc": "abc菜单111111111111"
+            },
+            {
+              "Name": "代金券发放记录",
+              "Code": "djqffjl",
+              "Desc": "代金券记录"
+            },
+            {
+              "Name": "发放代金券",
+              "Code": "ffdjq",
+              "Desc": "代金券发放"
+            },
+            {
+              "Name": "发放代金券详情",
+              "Code": "ffdjqxq",
+              "Desc": "发放代金券详情"
+            },
+            {
+              "Name": "积分管理",
+              "Code": "jfxq",
+              "Desc": "积分详情"
+            },
+            {
+              "Name": "积分发放",
+              "Code": "ffjf",
+              "Desc": "积分发放"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "companys": [
+    {
+      "company": [
+        {
+          "Name": "用户管理",
+          "Code": "usermanage",
+          "Pcode": "company",
+          "Value": "XT_QY",
+          "SubMenus": [
+            {
+              "Name": "角色管理",
+              "Code": "role",
+              "Desc": "管理数据浏览用户",
+              "Value": "XT_QY_JueSeGuanLi"
+            },
+            {
+              "Name": "用户管理",
+              "Code": "userManage",
+              "Desc": "管理数据浏览用户",
+              "Value": "XT_QY_YongHuGuanLi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "orginza": [
+        {
+          "Name": "组织机构",
+          "Code": "orginza",
+          "Pcode": "company",
+          "Value": "ZZ",
+          "SubMenus": [
+            {
+              "Name": "部门管理",
+              "Code": "bmmanage",
+              "Desc": "管理部门",
+              "Value": "ZZ_BuMenGuanLi"
+            },
+            {
+              "Name": "员工管理",
+              "Code": "ygmanage",
+              "Desc": "管理数据浏览用户",
+              "Value": "ZZ_YuanGongGuanLi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kqmanage": [
+        {
+          "Name": "考勤管理",
+          "Code": "kqmanage",
+          "Pcode": "company",
+          "Value": "KQ",
+          "SubMenus": [
+            {
+              "Name": "考勤记录",
+              "Code": "kqjl",
+              "Desc": "记录考勤",
+              "Value": "KQ_JiLu"
+            },
+            {
+              "Name": "免签人员",
+              "Code": "mqry",
+              "Desc": "管理数据浏览用户",
+              "Value": "KQ_MianQian"
+            },
+            {
+              "Name": "考勤规则",
+              "Code": "kqgz",
+              "Desc": "管理数据浏览用户",
+              "Value": "KQ_GuiZe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qyqb": [
+        {
+          "Name": "企业钱包",
+          "Code": "qyqb",
+          "Pcode": "company",
+          "Value": "QYQB",
+          "SubMenus": [
+            {
+              "Name": "我的账户",
+              "Code": "myzh",
+              "Desc": "记录考勤",
+              "Value": "QYQB_ZhangHu"
+            },
+            {
+              "Name": "积分转赠",
+              "Code": "jfzz",
+              "Desc": "管理数据浏览用户",
+              "Value": "QYQB_JiFen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "jump": [
+        {
+          "Name": "跳转页面",
+          "Code": "jump",
+          "Pcode": "company",
+          "SubMenus": [
+            {
+              "Name": "考勤统计",
+              "Code": "kqtj",
+              "Desc": "统计考勤"
+            },
+            {
+              "Name": "考勤规则添加",
+              "Code": "addkqgz",
+              "Desc": "管理数据浏览用户"
+            },
+            {
+              "Name": "我的账户充值",
+              "Code": "zhcz",
+              "Desc": "管理数据浏览用户"
+            },
+            {
+              "Name": "员工管理详情",
+              "Code": "glxq",
+              "Desc": "管理数据浏览用户"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "employers": [
+    {
+      "employer": [
+        {
+          "Name": "服务受理",
+          "Code": "fwsl",
+          "Pcode": "employer",
+          "SubMenus": [
+            {
+              "Name": "首页",
+              "Code": "index",
+              "Desc": "我的首页"
+            },
+            {
+              "Name": "服务记录",
+              "Code": "fwjl",
+              "Desc": "记录服务详情"
+            },
+            {
+              "Name": "订单记录",
+              "Code": "ddjl",
+              "Desc": "记录订单"
+            },
+            {
+              "Name": "转单日志",
+              "Code": "zdrz",
+              "Desc": "记录订单"
+            },
+            {
+              "Name": "上下线日志",
+              "Code": "sxxrz",
+              "Desc": "记录订单"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "works": [
+        {
+          "Name": "办公",
+          "Code": "work",
+          "Pcode": "employer",
+          "SubMenus": [
+            {
+              "Name": "通知发布",
+              "Code": "tzfb",
+              "Desc": "通知信息发布"
+            },
+            {
+              "Name": "通讯录",
+              "Code": "txl",
+              "Desc": "通讯联系人"
+            },
+            {
+              "Name": "会议室预定",
+              "Code": "hysyd",
+              "Desc": "预定会议室"
+            },
+            {
+              "Name": "访客管理",
+              "Code": "fkgl",
+              "Desc": "访客管理"
+            },
+            {
+              "Name": "考勤记录",
+              "Code": "kqjl",
+              "Desc": "考勤记录"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "services": [
+        {
+          "Name": "服务",
+          "Code": "service",
+          "Pcode": "employer",
+          "SubMenus": [
+            {
+              "Name": "园区活动",
+              "Code": "yqhd",
+              "Desc": "记录考勤"
+            },
+            {
+              "Name": "餐厅服务",
+              "Code": "ctfw",
+              "Desc": "管理数据浏览用户"
+            },
+            {
+              "Name": "停车场服务",
+              "Code": "tccfw",
+              "Desc": "管理数据浏览用户"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "consumes": [
+        {
+          "Name": "消费",
+          "Code": "consume",
+          "Pcode": "employer",
+          "SubMenus": [
+            {
+              "Name": "积分商城",
+              "Code": "jfsc",
+              "Desc": "记录考勤"
+            },
+            {
+              "Name": "我的钱包",
+              "Code": "myqb",
+              "Desc": "管理数据浏览用户"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "helps": [
+        {
+          "Name": "帮助中心",
+          "Code": "help",
+          "Pcode": "employer",
+          "SubMenus": [
+            {
+              "Name": "常见问题",
+              "Code": "cjwt",
+              "Desc": "记录考勤"
+            },
+            {
+              "Name": "企业服务",
+              "Code": "qyfw",
+              "Desc": "管理数据浏览用户"
+            },
+            {
+              "Name": "管家服务",
+              "Code": "gjfw",
+              "Desc": "管理数据浏览用户"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "jumps": [
+        {
+          "Name": "员工跳转",
+          "Code": "jump",
+          "Pcode": "employer",
+          "SubMenus": [
+            {
+              "Name": "新建通知",
+              "Code": "xjtz",
+              "Desc": "通知内容"
+            },
+            {
+              "Name": "积分转赠",
+              "Code": "jfzz",
+              "Desc": "管理数据浏览用户"
+            },
+            {
+              "Name": "订单信息",
+              "Code": "ddxx",
+              "Desc": "管理数据浏览用户"
+            },
+            {
+              "Name": "订单记录",
+              "Code": "ddjl",
+              "Desc": "管理数据浏览用户"
+            },
+            {
+              "Name": "预约记录",
+              "Code": "yyjl",
+              "Desc": "管理数据浏览用户"
+            },
+            {
+              "Name": "预约记录详情",
+              "Code": "yyjlxq",
+              "Desc": "管理数据浏览用户"
+            },
+            {
+              "Name": "会议室列表详情",
+              "Code": "hyslbxq",
+              "Desc": "管理数据浏览用户"
+            },
+            {
+              "Name": "立即预定",
+              "Code": "hysljyd",
+              "Desc": "管理数据浏览用户"
+            },
+            {
+              "Name": "访客管理详情",
+              "Code": "fkglxq",
+              "Desc": "管理数据浏览用户"
+            },
+            {
+              "Name": "新建邀请",
+              "Code": "xjyq",
+              "Desc": "管理数据浏览用户"
+            },
+            {
+              "Name": "我的预约记录",
+              "Code": "myyyjl",
+              "Desc": "管理数据浏览用户"
+            },
+            {
+              "Name": "餐厅服务详情",
+              "Code": "ctffxq",
+              "Desc": "管理数据浏览用户"
+            },
+            {
+              "Name": "包间预定",
+              "Code": "bjyd",
+              "Desc": "管理数据浏览用户"
+            },
+            {
+              "Name": "车辆缴费记录",
+              "Code": "jfjl",
+              "Desc": "管理数据浏览用户"
+            },
+            {
+              "Name": "车位预约记录",
+              "Code": "cwyyjl",
+              "Desc": "管理数据浏览用户"
+            },
+            {
+              "Name": "新增车辆",
+              "Code": "xzcl",
+              "Desc": "管理数据浏览用户"
+            },
+            {
+              "Name": "园区活动详情",
+              "Code": "yqhdxq",
+              "Desc": "园区活动详情"
+            },
+            {
+              "Name": "积分商城详情",
+              "Code": "jfscxq",
+              "Desc": "园区活动详情"
+            },
+            {
+              "Name": "积分兑换",
+              "Code": "jfdh",
+              "Desc": "园区活动详情"
+            },
+            {
+              "Name": "常见问题详情",
+              "Code": "cjwtxq",
+              "Desc": "常见问题详情"
+            },
+            {
+              "Name": "常见问题咨询",
+              "Code": "qyfwzx",
+              "Desc": "常见问题咨询"
+            },
+            {
+              "Name": "管家服务再次反馈",
+              "Code": "zcfg",
+              "Desc": "管家服务再次反馈"
+            },
+            {
+              "Name": "管家服务处理",
+              "Code": "fwcl",
+              "Desc": "管家服务处理"
+            },
+            {
+              "Name": "消费充值",
+              "Code": "xfcz",
+              "Desc": "常见问题咨询"
+            },
+            {
+              "Name": "代金券名称",
+              "Code": "djqmc",
+              "Desc": "常见问题咨询"
+            },
+            {
+              "Name": "生成邀请",
+              "Code": "scyq",
+              "Desc": "常见问题咨询"
+            },
+            {
+              "Name": "通知发布编辑页面",
+              "Code": "ygtzbj",
+              "Desc": "常见问题咨询"
+            },
+            {
+              "Name": "会议室预约",
+              "Code": "hysyy",
+              "Desc": "会议室预约"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "superadmins": [
+    {
+      "superadmin": [
+        {
+          "Name": "系统管理",
+          "Code": "system",
+          "Pcode": "superadmin",
+          "Value": "XT",
+          "SubMenus": [
+            {
+              "Name": "园区管理",
+              "Code": "parkmanage",
+              "Desc": "园区管理",
+              "Value": "XT_YuanQuGuanLi"
+            },
+            {
+              "Name": "企业管理",
+              "Code": "companymanage",
+              "Desc": "企业管理",
+              "Value": "XT_QiYeGuanLi"
+            },
+            {
+              "Name": "用户管理",
+              "Code": "usermanage",
+              "Desc": "用户管理",
+              "Value": "XT_YongHuGuanLi"
+            },
+            {
+              "Name": "角色管理",
+              "Code": "rolemanage",
+              "Desc": "角色管理",
+              "Value": "XT_JueSeGuanLi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sssManage": [
+        {
+          "Name": "设施管理",
+          "Code": "sssManage",
+          "Pcode": "superadmin",
+          "Value": "SS",
+          "SubMenus": [
+            {
+              "Name": "楼宇管理",
+              "Code": "buildManage",
+              "Desc": "管理数据浏览用户",
+              "Value": "SS_LouYuGuanLi"
+            },
+            {
+              "Name": "会议室管理",
+              "Code": "assembManage",
+              "Desc": "管理数据浏览用户",
+              "Value": "SS_HuiYiShiGuanLi"
+            },
+            {
+              "Name": "餐厅管理",
+              "Code": "diningManage",
+              "Desc": "管理数据浏览用户",
+              "Value": "SS_CanTingGuanLi"
+            },
+            {
+              "Name": "停车场管理",
+              "Code": "parkManage",
+              "Desc": "管理数据浏览用户",
+              "Value": "SS_TingCheChangGuanLi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

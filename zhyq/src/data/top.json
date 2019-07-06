@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "员工",
+    "Code": "employers",
+    "key": "employer"
+  },
+  {
+    "Name": "企业管理员",
+    "Code": "companys",
+    "key": "company"
+  },
+  {
+    "Name": "园区管理员",
+    "Code": "users",
+    "key": "zone"
+  },
+  {
+    "Name": "超级管理员",
+    "Code": "superadmins",
+    "key": "platform"
+  }
+]

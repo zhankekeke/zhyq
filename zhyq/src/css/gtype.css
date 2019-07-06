@@ -1,0 +1,133 @@
+.ivu-icon-chart-icon {
+    content: '';
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    background-image: url(../imgs/pic/chart-icon.png);
+    background-size: 32px;
+    background-repeat: no-repeat;
+    color: red;
+    background-position-x: -8px;
+}
+
+.chart-name {
+    display: inline-block;
+    position: relative;
+    top: -12px;
+}
+
+
+.line {
+    background-position-y: 0px;
+    background-position-x: -2px;
+}
+
+.bar {
+    background-position-y: -33px;
+    background-position-x: -2px;
+}
+
+.pie {
+    background-position-y: -128px;
+    background-position-x: -2px;
+}
+
+.scatter {
+    background-position-y: -64px;
+    background-position-x: -2px;
+}
+
+.effectScatter {
+    background-position-y: -257px;
+    background-position-x: -2px;
+}
+
+.radar {
+    background-position-y: -158px;
+    background-position-x: -1px;
+}
+
+.tree {
+    background-position-y: -449px;
+    background-position-x: -2px;
+}
+
+.treemap {
+    background-position-y: -481px;
+    background-position-x: -2px;
+}
+
+.sunburst {
+    background-position-y: -897px;
+    background-position-x: -2px;
+}
+
+.boxplot {
+    background-position-y: -577px;
+    background-position-x: -2px;
+}
+
+.candlestick {
+    background-position-y: -97px;
+    background-position-x: -2px;
+}
+
+.heatmap {
+    background-position-y: -353px;
+    background-position-x: -2px;
+}
+
+.map {
+    background-position-y: -255px;
+    background-position-x: -2px;
+}
+
+.bmap{
+    background-position-y: -255px;
+    background-position-x: -2px;
+}
+
+.parallel {
+    background-position-y: -513px;
+    background-position-x: -2px;
+}
+
+.lines {
+    background-position-y: -129px;
+    background-position-x: -2px;
+}
+
+.graph {
+    background-position-y: -225px;
+    background-position-x: -2px;
+}
+
+.sankey {
+    background-position-y: -545px;
+    background-position-x: -2px;
+}
+
+.funnel {
+    background-position-y: -317px;
+    background-position-x: -1px;
+}
+
+.gauge {
+    background-position-y: -286px;
+    background-position-x: -1px;
+}
+
+.pictorialBar {
+    background-position-y: -769px;
+    background-position-x: -2px;
+}
+
+.themeRiver {
+    background-position-y: -801px;
+    background-position-x: -2px;
+}
+
+.custom {
+    background-position-y: -833px;
+    background-position-x: -2px;
+}

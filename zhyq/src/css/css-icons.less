@@ -1,0 +1,97 @@
+[class*="cicon-"]{
+  overflow:hidden;
+  position:relative;
+  display:inline-block;
+  width:1em; height:1em;
+  &:after, &:before{
+    content:"";
+  }
+}
+.cicon-back{
+  &:after,&:before{
+    width:1.5em;
+    height:.1em;
+    position:absolute;
+    margin-top:-.05em;
+    margin-left:-.5em;
+    background-color:currentColor;
+  }
+  &:before{
+    top:0; left:50%;
+    transform: rotate(-45deg);
+  }
+  &:after{
+    top:100%; left:50%;
+    transform: rotate(45deg);
+  }
+}
+.cicon-go{
+  &:after,&:before{
+    width:1.5em;
+    height:.1em;
+    position:absolute;
+    margin-top:-.05em;
+    margin-left:-1em;
+    background-color:currentColor;
+  }
+  &:before{
+    top:0; left:50%;
+    transform: rotate(45deg);
+  }
+  &:after{
+    top:100%; left:50%;
+    transform: rotate(-45deg);
+  }
+}
+.cicon-search{
+  &:before{
+    width:.7em;
+    height:.7em;
+    display:block;
+    border:.05em solid currentColor;
+    border-radius:50%;
+  }
+  &:after{
+    width:.4em;
+    height:.05em;
+    display:block;
+    position:absolute;
+    bottom:.2em; right:.2em;
+    transform: rotate(60deg);
+    background-color:currentColor;
+  }
+}
+.cicon-locked{
+  &:before{
+    width:.7em;
+    height:.7em;
+    top:0; left:50%;
+    position:absolute;
+    border-radius:50%;
+    margin-left:-.35em;
+    border:.1em solid currentColor;
+  }
+  &:after{
+    background-color:currentColor;
+    width:.9em;
+    height:.6em;
+    margin-left:-.45em;
+    position:absolute;
+    bottom:0; left:50%;
+  }
+}
+.cicon-phone{
+  &:before{
+    top:0; left:50%;
+    position:absolute;
+    margin-left:-.3em;
+    height:1em; width:.6em;
+    border-style:solid;
+    border-color:currentColor;
+    border-top-width:.2em;
+    border-bottom-width:.2em;
+    border-left-width:.1em;
+    border-right-width:.1em;
+    border-radius:.1em;
+  }
+}

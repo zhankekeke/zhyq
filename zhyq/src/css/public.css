@@ -1,0 +1,116 @@
+body {
+    height: 100%;
+    position: fixed;
+    width: 100%;
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+    background-color: #fff;
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+ ::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color: #afafaf;
+}
+
+.ivu-loading-bar-inner-color-primary {
+    background-color: #2db900;
+}
+
+
+ul {
+    list-style: none;
+}
+
+.top {
+    background-color: #fff;
+}
+
+.logo {
+    width: 100%;
+    max-width: 200px;
+    height: 60px;
+    float: left;
+    font-size: 24px;
+    color: #fff;
+    background-color: #495060;
+    text-align: center;
+}
+
+.menulink {
+    color: #000;
+    font-size: 16px;
+    display: block;
+    font-weight: bold;
+    padding: 0 20px;
+}
+
+.layout-ceiling-main {
+    float: right;
+    margin-right: 15px;
+    color: #fff;
+}
+
+.layout-ceiling-main a {
+    color: #000;
+}
+
+.layout-content-main {
+    width: 100%;
+}
+
+.layout-nav-content {
+    display: flex;
+    position: absolute;
+    top: 60px;
+    bottom: 0px;
+    width: 100%
+}
+
+.top .ivu-menu-item-selected {
+    background-color: #fff;
+
+}
+
+.ivu-menu-item {
+    padding: 0px;
+}
+
+.disabled {
+    opacity: 0.2;
+}
+
+.iv-resize {
+    position: absolute;
+}
+
+.iv-resize.iv-rs-row {
+  bottom: 0;
+    left: 0;
+    cursor: row-resize;
+    height: 5px;
+    width: 100%;
+    background: #f6f8fa;
+    z-index: 4;
+}
+
+.iv-resize.iv-rs-col {
+    width: 2px;
+    cursor: row-resize;
+    top: 0;
+    left: 0;
+    bottom: 0;
+}
+
+.text-ellipsis {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
